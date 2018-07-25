@@ -1,0 +1,5 @@
+Simple code in C I made to test different chaining methods in block cipher encryption.
+
+The encryption algorithm is a simple Simon32/64 implementation.
+
+The input files should be BMP, there's no checking in the code, it just assumes they are.
